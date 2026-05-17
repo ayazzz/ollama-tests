@@ -1,4 +1,4 @@
-Question: `how would you plan a project with .net 10 for a dentist clinic?`
+Q: `how would you plan a project with .net 10 for a dentist clinic?`
 
 This is a large, complex, and highly sensitive project because it deals with Protected Health Information (PHI). Therefore, the project plan
 must heavily prioritize **Security, Compliance, and User Experience (UX)** right from day one.
